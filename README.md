@@ -1,5 +1,5 @@
 # SEP11 Freedom Project
-by Your Name Here
+by Fernando Garcia
 
 ## Context
 Text
